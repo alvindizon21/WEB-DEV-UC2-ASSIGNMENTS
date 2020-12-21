@@ -1,12 +1,9 @@
 // the first alert
-alert("Hello, World!");
+alert("ALVIN DIZON");
 
 // the second alert
-alert("Hello, World!");
+alert("CLICK AGAIN");
 
-//move the image from top to buttom
-//make the image invisible
-//make the image visible
 
 
 
